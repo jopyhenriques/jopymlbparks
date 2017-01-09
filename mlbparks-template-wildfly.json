@@ -2,7 +2,7 @@
    "kind": "Template",
    "apiVersion": "v1",
    "metadata": {
-      "name": "mlbparks-wildfly",
+      "name": "jopy-mlbparks-wildfly",
       "annotations": {
          "iconClass": "icon-jboss",
          "description": "Application template for MLB Parks application on WildFly & MongoDB built using STI"
